@@ -1,6 +1,7 @@
 # Safehood Backend
 
-A comprehensive society management system backend built with Node.js, TypeScript, and PostgreSQL.
+A comprehensive society management system backend built with Node.js, TypeScript, and PostgreSQL. This line is not added
+by the owner of the repository.
 
 ## Features
 
